@@ -12,7 +12,7 @@ This project analyzes Minecraft server player data to predict newsletter subscri
 
 ## How to Run
 1. Clone this repository
-2. Make sure `players.csv` and `sessions.csv` are in the same directory as the notebook
+2. Make sure `players.csv` and `sessions.csv` are in the same directory as the notebook; and place into a folder called `data`
 3. Open `report.ipynb` in Jupyter Notebook with R kernel
 4. Run all cells in order from top to bottom
 
